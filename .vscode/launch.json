@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/nds/DEV_PROJECTS/COURSES/UDEMY/CMake/UdemyCmake/2_CMake/01_HelloWorld",
+      "program": "/Users/nds/DEV_PROJECTS/COURSES/UDEMY/CMake/UdemyCmake/2_CMake/01_HelloWorld/build/Debug/outDebug"
+    }
+  ]
+}
