@@ -1,0 +1,3 @@
+[submodule "2_CMake/00_MyProject/external/json"]
+	path = 2_CMake/00_MyProject/external/json
+	url = https://github.com/nlohmann/json
